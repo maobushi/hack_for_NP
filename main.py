@@ -3,7 +3,7 @@ import streamlit as st
 
 from bs4 import BeautifulSoup
 
-st.title("Hack for NS")
+st.title("Hack for NP")
 
 
 title = st.text_input('URL')
